@@ -1,4 +1,4 @@
-package edu.westga.cs1302.lab1.test;
+package edu.westga.cs1302.lab1.test.view.textgenerator;
 
 import static org.junit.jupiter.api.Assertions.*;
 import edu.westga.cs1302.lab1.view.TextGenerator;
@@ -6,7 +6,7 @@ import edu.westga.cs1302.lab1.model.*;
 
 import org.junit.jupiter.api.Test;
 
-class testGetText {
+class TestGetText {
 
 	@Test
 	void testWhenBillIsEmpty() {
